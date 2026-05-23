@@ -1,0 +1,1353 @@
+[
+  {
+    "id": "contax-t2",
+    "name": "Contax T2",
+    "brand": "Contax",
+    "category": "compact",
+    "format": "35mm",
+    "years": "1990–2001",
+    "lens": {
+      "focal": 38,
+      "aperture": 2.8,
+      "maker": "Zeiss",
+      "model": "Sonnar T*"
+    },
+    "specs": {
+      "shutter": "2s–1/500s",
+      "metering": "Center-weighted + spot",
+      "focus": "Autofocus (passive)",
+      "filmSpeeds": "ISO 25–3200"
+    },
+    "vibe": "The benchmark premium compact. Zeiss Sonnar rendering delivers exceptional micro-contrast and three-dimensional subject separation. Built like a tank in titanium, yet pocketable. Images have a distinctive 'pop' that cheaper compacts can't replicate.",
+    "bestFor": [
+      "street",
+      "travel",
+      "portrait"
+    ],
+    "culturalNote": "Famously used by Juergen Teller, Wolfgang Tillmans, and Terry Richardson. Became the defining camera of 90s fashion photography. Prices have tripled since the film revival.",
+    "marketPrice": "600–1000€",
+    "difficulty": "beginner",
+    "wikiImage": "contax-t2.jpg"
+  },
+  {
+    "id": "contax-t3",
+    "name": "Contax T3",
+    "brand": "Contax",
+    "category": "compact",
+    "format": "35mm",
+    "years": "2001–2005",
+    "lens": {
+      "focal": 35,
+      "aperture": 2.8,
+      "maker": "Zeiss",
+      "model": "Sonnar T*"
+    },
+    "specs": {
+      "shutter": "4s–1/1200s",
+      "metering": "Multi-zone + spot",
+      "focus": "Autofocus",
+      "filmSpeeds": "ISO 25–3200"
+    },
+    "vibe": "Refined successor to the T2. The 35mm focal length is more versatile for street and environmental portraits. Slightly sharper wide open than its predecessor, with the same signature Zeiss 3D rendering.",
+    "bestFor": [
+      "street",
+      "travel",
+      "documentary"
+    ],
+    "culturalNote": "Last and most refined compact Contax ever made. Rarer than the T2, making it even more sought after today. Often considered the pinnacle of 35mm compact engineering.",
+    "marketPrice": "1000–1800€",
+    "difficulty": "beginner",
+    "wikiImage": "contax-t3.jpg"
+  },
+  {
+    "id": "yashica-t4",
+    "name": "Yashica T4 / T5",
+    "brand": "Yashica",
+    "category": "compact",
+    "format": "35mm",
+    "years": "1993–1999",
+    "lens": {
+      "focal": 35,
+      "aperture": 3.5,
+      "maker": "Zeiss",
+      "model": "Tessar T*"
+    },
+    "specs": {
+      "shutter": "1s–1/700s",
+      "metering": "Multi-zone",
+      "focus": "Autofocus",
+      "filmSpeeds": "ISO 50–3200"
+    },
+    "vibe": "The people's Zeiss compact. The Tessar formula produces incredibly sharp images with clinical precision. Modest aperture means you rely on good light or fast film, but when conditions are right the results are stunning.",
+    "bestFor": [
+      "street",
+      "travel",
+      "everyday"
+    ],
+    "culturalNote": "Beloved by Terry Richardson who shot much of his early work with one. Affordable entry point into Zeiss-lens compacts — though prices have climbed significantly since going viral on social media.",
+    "marketPrice": "150–350€",
+    "difficulty": "beginner",
+    "wikiImage": "yashica-t4.jpg"
+  },
+  {
+    "id": "olympus-mju-ii",
+    "name": "Olympus Mju II",
+    "brand": "Olympus",
+    "category": "compact",
+    "format": "35mm",
+    "years": "1997–2007",
+    "lens": {
+      "focal": 35,
+      "aperture": 2.8,
+      "maker": "Olympus"
+    },
+    "specs": {
+      "shutter": "4s–1/800s",
+      "metering": "Multi-zone",
+      "focus": "Autofocus",
+      "filmSpeeds": "ISO 50–3200"
+    },
+    "vibe": "Deceptively capable. The clamshell design protects the excellent 35mm f/2.8 lens. Images have pleasing contrast and a slightly warm rendering. Compact enough to go absolutely everywhere.",
+    "bestFor": [
+      "everyday",
+      "travel",
+      "street"
+    ],
+    "culturalNote": "The most popular compact on the film revival market. Flooded social media around 2018–2022, pushing prices from €30 to €200+. Its ubiquity is both its strength and weakness.",
+    "marketPrice": "150–250€",
+    "difficulty": "beginner",
+    "wikiImage": "olympus-mju-ii.jpg"
+  },
+  {
+    "id": "ricoh-gr1s",
+    "name": "Ricoh GR1s / GR1v",
+    "brand": "Ricoh",
+    "category": "compact",
+    "format": "35mm",
+    "years": "1996–2001",
+    "lens": {
+      "focal": 28,
+      "aperture": 2.8,
+      "maker": "Ricoh",
+      "model": "GR Lens"
+    },
+    "specs": {
+      "shutter": "8s–1/500s",
+      "metering": "Multi-zone + spot",
+      "focus": "Autofocus with snap-focus",
+      "filmSpeeds": "ISO 25–3200"
+    },
+    "vibe": "The street photographer's weapon of choice. The 28mm GR lens is legendary — razor sharp corner to corner with minimal distortion. Snap focus mode locks to a preset distance for instant shooting without AF lag.",
+    "bestFor": [
+      "street",
+      "documentary",
+      "travel"
+    ],
+    "culturalNote": "Direct ancestor of the Ricoh GR digital series. Favoured by Daido Moriyama and countless street photographers. The GR1v added an interval timer; both are equally excellent.",
+    "marketPrice": "250–500€",
+    "difficulty": "intermediate",
+    "wikiImage": "ricoh-gr1s.jpg"
+  },
+  {
+    "id": "minolta-tc1",
+    "name": "Minolta TC-1",
+    "brand": "Minolta",
+    "category": "compact",
+    "format": "35mm",
+    "years": "1996–2001",
+    "lens": {
+      "focal": 28,
+      "aperture": 3.5,
+      "maker": "Minolta",
+      "model": "G-Rokkor"
+    },
+    "specs": {
+      "shutter": "4s–1/800s",
+      "metering": "Multi-zone",
+      "focus": "Autofocus",
+      "filmSpeeds": "ISO 25–5000"
+    },
+    "vibe": "The rarest and most refined Japanese premium compact. Smaller than anything else with this level of optical quality. The G-Rokkor rendering is smooth and natural with beautiful out-of-focus gradation.",
+    "bestFor": [
+      "travel",
+      "street",
+      "everyday"
+    ],
+    "culturalNote": "Often called the 'forgotten gem' of premium compacts. Production numbers were low, making it genuinely rare. Collectors prize it for its extraordinary build quality and near-silent shutter.",
+    "marketPrice": "600–1200€",
+    "difficulty": "beginner",
+    "wikiImage": "minolta-tc1.jpg"
+  },
+  {
+    "id": "nikon-35ti",
+    "name": "Nikon 35Ti / 28Ti",
+    "brand": "Nikon",
+    "category": "compact",
+    "format": "35mm",
+    "years": "1993–2001",
+    "lens": {
+      "focal": 35,
+      "aperture": 2.8,
+      "maker": "Nikon",
+      "model": "NIKKOR"
+    },
+    "specs": {
+      "shutter": "4s–1/1400s",
+      "metering": "Multi-zone + center-weighted + spot",
+      "focus": "Autofocus",
+      "filmSpeeds": "ISO 25–5000"
+    },
+    "vibe": "Nikon's titanium jewel. The analogue dial on top displaying aperture, focus distance and exposure compensation is a design icon. Nikkor optics deliver the characteristically crisp Nikon rendering.",
+    "bestFor": [
+      "travel",
+      "street",
+      "portrait"
+    ],
+    "culturalNote": "Designed as a statement piece as much as a camera. The 28Ti is rarer and more desirable. Both were positioned against the Contax T2 as Nikon's premium compact answer.",
+    "marketPrice": "400–800€",
+    "difficulty": "beginner",
+    "wikiImage": "nikon-35ti.jpg"
+  },
+  {
+    "id": "leica-minilux",
+    "name": "Leica Minilux",
+    "brand": "Leica",
+    "category": "compact",
+    "format": "35mm",
+    "years": "1995–2004",
+    "lens": {
+      "focal": 40,
+      "aperture": 2.4,
+      "maker": "Leica",
+      "model": "Summarit"
+    },
+    "specs": {
+      "shutter": "2s–1/400s",
+      "metering": "Multi-zone",
+      "focus": "Autofocus",
+      "filmSpeeds": "ISO 25–3200"
+    },
+    "vibe": "Leica's take on the premium compact. The 40mm Summarit is a uniquely versatile focal length — wider than 50mm yet tighter than 35mm. Leica rendering with that characteristic three-dimensionality.",
+    "bestFor": [
+      "travel",
+      "portrait",
+      "everyday"
+    ],
+    "culturalNote": "Made in Japan, unlike Leica's German rangefinders. Divisive among Leica purists but beloved by photographers who prioritise results over origin. The Zoom variant covers 35–70mm.",
+    "marketPrice": "300–600€",
+    "difficulty": "beginner",
+    "wikiImage": "leica-minilux.jpg"
+  },
+  {
+    "id": "fujifilm-klasse",
+    "name": "Fujifilm Klasse W / S",
+    "brand": "Fujifilm",
+    "category": "compact",
+    "format": "35mm",
+    "years": "2006–2013",
+    "lens": {
+      "focal": 28,
+      "aperture": 2.8,
+      "maker": "Fujinon"
+    },
+    "specs": {
+      "shutter": "8s–1/500s",
+      "metering": "Multi-zone + spot",
+      "focus": "Autofocus",
+      "filmSpeeds": "ISO 25–3200"
+    },
+    "vibe": "Late-era compact done right. The Klasse W's 28mm Fujinon is sharp and characterful. One of the last serious film compacts made before digital fully took over. Excellent build quality for its price point.",
+    "bestFor": [
+      "travel",
+      "street",
+      "landscape"
+    ],
+    "culturalNote": "Produced when film was nearly dead commercially, which makes it a curious artefact. The S variant has a 38mm lens. Underappreciated relative to Japanese rivals — and priced accordingly.",
+    "marketPrice": "200–400€",
+    "difficulty": "beginner",
+    "wikiImage": "fujifilm-klasse.jpg"
+  },
+  {
+    "id": "konica-hexar-af",
+    "name": "Konica Hexar AF",
+    "brand": "Konica",
+    "category": "compact",
+    "format": "35mm",
+    "years": "1992–2001",
+    "lens": {
+      "focal": 35,
+      "aperture": 2,
+      "maker": "Konica",
+      "model": "Hexanon"
+    },
+    "specs": {
+      "shutter": "4s–1/250s",
+      "metering": "Multi-zone + spot",
+      "focus": "Autofocus",
+      "filmSpeeds": "ISO 25–3200"
+    },
+    "vibe": "The 'poor man's Leica' — though at today's prices, the joke no longer lands. The f/2.0 Hexanon is one of the finest compact lenses ever made: fast, sharp, beautifully rendering out-of-focus areas. Near-silent shutter is uncanny.",
+    "bestFor": [
+      "street",
+      "portrait",
+      "low-light"
+    ],
+    "culturalNote": "Cult status earned honestly. The silent mode is so quiet it became legendary in street photography circles. A hidden menu unlocks additional features — a wink to enthusiast users.",
+    "marketPrice": "400–800€",
+    "difficulty": "intermediate",
+    "wikiImage": "konica-hexar-af.jpg"
+  },
+  {
+    "id": "leica-m6",
+    "name": "Leica M6",
+    "brand": "Leica",
+    "category": "rangefinder",
+    "format": "35mm",
+    "years": "1984–2002",
+    "lens": null,
+    "specs": {
+      "shutter": "1s–1/1000s + B",
+      "metering": "TTL center-weighted",
+      "focus": "Rangefinder (manual)",
+      "filmSpeeds": "ISO 6–6400"
+    },
+    "vibe": "The definitive 35mm rangefinder. Mechanical reliability paired with the only concession to modernity that matters: a built-in light meter. Accepts any M-mount lens ever made. The camera that gets out of your way.",
+    "bestFor": [
+      "street",
+      "documentary",
+      "portrait",
+      "travel"
+    ],
+    "culturalNote": "The most successful M-series Leica commercially. Henri Cartier-Bresson, Sebastião Salgado, Josef Koudelka — the list of photographers who shot with M6s reads like a history of photography.",
+    "marketPrice": "2000–4000€",
+    "difficulty": "intermediate",
+    "wikiImage": "leica-m6.jpg"
+  },
+  {
+    "id": "leica-m3",
+    "name": "Leica M3",
+    "brand": "Leica",
+    "category": "rangefinder",
+    "format": "35mm",
+    "years": "1954–1966",
+    "lens": null,
+    "specs": {
+      "shutter": "1s–1/1000s + B",
+      "metering": "None (external meter required)",
+      "focus": "Rangefinder (manual)",
+      "filmSpeeds": "Any (no meter)"
+    },
+    "vibe": "The original. The M3 set the template for every M that followed. No built-in meter means pure, deliberate shooting. The viewfinder is the largest and clearest ever put in an M — a revelation to look through.",
+    "bestFor": [
+      "street",
+      "portrait",
+      "documentary"
+    ],
+    "culturalNote": "HCB's camera of choice. Introduced the M bayonet mount in 1954 — still in use today. A functioning M3 is one of the great engineering achievements of the 20th century.",
+    "marketPrice": "1500–3500€",
+    "difficulty": "advanced",
+    "wikiImage": "leica-m3.jpg"
+  },
+  {
+    "id": "leica-m4",
+    "name": "Leica M4",
+    "brand": "Leica",
+    "category": "rangefinder",
+    "format": "35mm",
+    "years": "1967–1975",
+    "lens": null,
+    "specs": {
+      "shutter": "1s–1/1000s + B",
+      "metering": "None (external meter required)",
+      "focus": "Rangefinder (manual)",
+      "filmSpeeds": "Any (no meter)"
+    },
+    "vibe": "The sweet spot in the M lineage for many purists. Rapid-loading film system over the M3, angled rewind knob, framelines for 35/50/90/135mm. No meter = no batteries = no excuses.",
+    "bestFor": [
+      "street",
+      "documentary",
+      "travel"
+    ],
+    "culturalNote": "Made during Leica's most uncertain financial period. Some consider it the last 'true' M before commercial pressures led to compromises. Donald Sutherland, Keith Richards — a camera with a rock & roll pedigree.",
+    "marketPrice": "1800–3500€",
+    "difficulty": "advanced",
+    "wikiImage": "leica-m4.jpg"
+  },
+  {
+    "id": "leica-m-a",
+    "name": "Leica M-A",
+    "brand": "Leica",
+    "category": "rangefinder",
+    "format": "35mm",
+    "years": "2014–present",
+    "lens": null,
+    "specs": {
+      "shutter": "1s–1/1000s + B",
+      "metering": "None",
+      "focus": "Rangefinder (manual)",
+      "filmSpeeds": "Any (no meter)"
+    },
+    "vibe": "The purist's new M. No electronics whatsoever — not even a battery. Works with mechanical precision indefinitely. Leica's acknowledgement that some photographers want nothing between them and the image.",
+    "bestFor": [
+      "street",
+      "documentary",
+      "portrait"
+    ],
+    "culturalNote": "A modern camera deliberately stripped of modernity. Controversial at launch ('why not just buy a used M3?'), beloved in practice. Available in black chrome and silver chrome.",
+    "marketPrice": "4500–5500€",
+    "difficulty": "advanced",
+    "wikiImage": "leica-m-a.jpg"
+  },
+  {
+    "id": "leica-m7",
+    "name": "Leica M7",
+    "brand": "Leica",
+    "category": "rangefinder",
+    "format": "35mm",
+    "years": "2000–2018",
+    "lens": null,
+    "specs": {
+      "shutter": "32s–1/1000s + B",
+      "metering": "TTL center-weighted",
+      "focus": "Rangefinder (manual)",
+      "filmSpeeds": "ISO 6–6400"
+    },
+    "vibe": "The M that added aperture priority. For photographers who want to focus on focus rather than exposure, the M7's AE mode is a revelation. Long exposures up to 32 seconds open up possibilities no other M offers.",
+    "bestFor": [
+      "street",
+      "portrait",
+      "available-light"
+    ],
+    "culturalNote": "Leica's most feature-rich film M. The aperture priority mode divides opinion — purists dismiss it, working photographers love it. Battery dependency is the main criticism.",
+    "marketPrice": "3000–5000€",
+    "difficulty": "intermediate",
+    "wikiImage": "leica-m7.jpg"
+  },
+  {
+    "id": "voigtlander-bessa",
+    "name": "Voigtländer Bessa R2M / R3M / R4M",
+    "brand": "Voigtländer",
+    "category": "rangefinder",
+    "format": "35mm",
+    "years": "2002–2010",
+    "lens": null,
+    "specs": {
+      "shutter": "1s–1/2000s + B",
+      "metering": "TTL center-weighted",
+      "focus": "Rangefinder (manual)",
+      "filmSpeeds": "ISO 25–3200"
+    },
+    "vibe": "The accessible M-mount rangefinder. Cosina-made to exacting standards, accepts Leica M lenses at a fraction of the price. The R3M has 1:1 viewfinder magnification — see both eyes open simultaneously.",
+    "bestFor": [
+      "street",
+      "travel",
+      "portrait"
+    ],
+    "culturalNote": "Made Rangefinder shooting accessible when Leica prices began their steep climb. The R4M's 0.52x finder is optimised for wide lenses (21–25mm). A pragmatic alternative embraced by working photographers.",
+    "marketPrice": "300–600€",
+    "difficulty": "intermediate",
+    "wikiImage": "voigtlander-bessa.jpg"
+  },
+  {
+    "id": "zeiss-ikon-zm",
+    "name": "Zeiss Ikon ZM",
+    "brand": "Zeiss",
+    "category": "rangefinder",
+    "format": "35mm",
+    "years": "2004–2012",
+    "lens": null,
+    "specs": {
+      "shutter": "1s–1/2000s + B",
+      "metering": "TTL center-weighted",
+      "focus": "Rangefinder (manual)",
+      "filmSpeeds": "ISO 25–3200"
+    },
+    "vibe": "Zeiss's brief, brilliant return to 35mm rangefinders. The viewfinder is widely regarded as the best ever put in a non-Leica M-mount body — brighter and larger than many Leicas. Accepts M-mount lenses.",
+    "bestFor": [
+      "street",
+      "travel",
+      "documentary"
+    ],
+    "culturalNote": "Discontinued after Cosina ended production. Now appreciated as an undervalued alternative to Leica. Pairs naturally with ZM-series Zeiss lenses but works with the entire M-mount catalogue.",
+    "marketPrice": "500–900€",
+    "difficulty": "intermediate",
+    "wikiImage": "zeiss-ikon-zm.jpg"
+  },
+  {
+    "id": "minolta-cle",
+    "name": "Minolta CLE",
+    "brand": "Minolta",
+    "category": "rangefinder",
+    "format": "35mm",
+    "years": "1980–1984",
+    "lens": null,
+    "specs": {
+      "shutter": "4s–1/1000s + B",
+      "metering": "TTL aperture priority + manual",
+      "focus": "Rangefinder (manual)",
+      "filmSpeeds": "ISO 25–1600"
+    },
+    "vibe": "The smallest M-mount rangefinder ever made. Aperture priority mode makes it effortless to use. Accepts Leica M lenses and the superb M-Rokkor lenses Minolta made specifically for it.",
+    "bestFor": [
+      "travel",
+      "street",
+      "everyday"
+    ],
+    "culturalNote": "Developed jointly with Leica as successor to the Leitz-Minolta CL. Leica pulled out of the partnership, so Minolta released it alone. The M-Rokkor 40mm f/2 is arguably the finest lens ever made for an M-mount camera.",
+    "marketPrice": "400–700€",
+    "difficulty": "intermediate",
+    "wikiImage": "minolta-cle.jpg"
+  },
+  {
+    "id": "canon-p",
+    "name": "Canon P",
+    "brand": "Canon",
+    "category": "rangefinder",
+    "format": "35mm",
+    "years": "1958–1961",
+    "lens": null,
+    "specs": {
+      "shutter": "1s–1/1000s + B",
+      "metering": "None",
+      "focus": "Rangefinder (manual)",
+      "filmSpeeds": "Any (no meter)"
+    },
+    "vibe": "Canon's elegant postwar rangefinder. The 'P' stands for Populaire — Canon's attempt to bring rangefinder photography to a wider audience. Accepts Leica screw-mount (LTM) lenses via the native mount.",
+    "bestFor": [
+      "street",
+      "portrait",
+      "documentary"
+    ],
+    "culturalNote": "Part of Canon's golden era of rangefinder production. Before pivoting to SLRs, Canon made some of the finest rangefinder cameras and lenses in the world. The Canon 50mm f/0.95 'Dream Lens' fits this body.",
+    "marketPrice": "150–350€",
+    "difficulty": "advanced",
+    "wikiImage": "canon-p.jpg"
+  },
+  {
+    "id": "rollei-35s",
+    "name": "Rollei 35S",
+    "brand": "Rollei",
+    "category": "compact",
+    "format": "35mm",
+    "years": "1974–1980",
+    "lens": {
+      "focal": 40,
+      "aperture": 2.8,
+      "maker": "Zeiss",
+      "model": "Sonnar HFT"
+    },
+    "specs": {
+      "shutter": "1/2s–1/500s + B",
+      "metering": "Selenium cell (no battery needed)",
+      "focus": "Scale focus (manual)",
+      "filmSpeeds": "ISO 25–1600"
+    },
+    "vibe": "The smallest full-frame 35mm camera with a Zeiss lens. Collapsible design fits in a shirt pocket. The Sonnar rendering is exquisite. Zone focusing demands intentionality — and rewards it.",
+    "bestFor": [
+      "travel",
+      "street",
+      "everyday"
+    ],
+    "culturalNote": "Designed to be the world's smallest quality camera when launched. The selenium meter needs no battery and still functions on many examples. Engineering marvel from West Germany.",
+    "marketPrice": "200–400€",
+    "difficulty": "advanced",
+    "wikiImage": "rollei-35s.jpg"
+  },
+  {
+    "id": "canon-ae1",
+    "name": "Canon AE-1 / AE-1 Program",
+    "brand": "Canon",
+    "category": "slr",
+    "format": "35mm",
+    "years": "1976–1984",
+    "lens": null,
+    "specs": {
+      "shutter": "2s–1/1000s + B",
+      "metering": "Center-weighted (shutter priority / program)",
+      "focus": "Manual (FD mount)",
+      "filmSpeeds": "ISO 25–3200"
+    },
+    "vibe": "The camera that democratised SLR photography. Shutter-priority automation removed the exposure barrier for beginners without dumbing down the results. FD lenses deliver excellent optical performance.",
+    "bestFor": [
+      "everyday",
+      "portrait",
+      "travel"
+    ],
+    "culturalNote": "Sold over 1 million units — the first mass-market SLR. The AE-1 Program added full program mode in 1981. Responsible for introducing an entire generation to serious photography.",
+    "marketPrice": "80–200€",
+    "difficulty": "beginner",
+    "wikiImage": "canon-ae1.jpg"
+  },
+  {
+    "id": "olympus-om1",
+    "name": "Olympus OM-1",
+    "brand": "Olympus",
+    "category": "slr",
+    "format": "35mm",
+    "years": "1972–1987",
+    "lens": null,
+    "specs": {
+      "shutter": "1s–1/1000s + B",
+      "metering": "Center-weighted (match-needle)",
+      "focus": "Manual (OM mount)",
+      "filmSpeeds": "ISO 25–1600"
+    },
+    "vibe": "The SLR that proved small didn't mean compromised. Yoshihisa Maitani's OM system challenged the assumption that professional SLRs had to be large. Fully mechanical, supremely well-built, and pleasurable to use.",
+    "bestFor": [
+      "street",
+      "travel",
+      "nature"
+    ],
+    "culturalNote": "Maitani's masterpiece. Launched as the M-1 until Leica objected to the name. The OM system's compact lenses remain outstanding values. Entirely mechanical — still usable centuries from now.",
+    "marketPrice": "100–250€",
+    "difficulty": "intermediate",
+    "wikiImage": "olympus-om1.jpg"
+  },
+  {
+    "id": "nikon-fm2",
+    "name": "Nikon FM2",
+    "brand": "Nikon",
+    "category": "slr",
+    "format": "35mm",
+    "years": "1982–2001",
+    "lens": null,
+    "specs": {
+      "shutter": "1s–1/4000s + B",
+      "metering": "Center-weighted (match-needle)",
+      "focus": "Manual (F mount)",
+      "filmSpeeds": "ISO 12–4000"
+    },
+    "vibe": "The professional's mechanical SLR. 1/4000s top shutter speed was the fastest of its era. Fully mechanical — remove the batteries and it still fires at any speed. Compatible with virtually every Nikkor lens ever made.",
+    "bestFor": [
+      "documentary",
+      "portrait",
+      "sport"
+    ],
+    "culturalNote": "Standard issue for photojournalists throughout the 1980s and 90s. NASA used modified FM2s on Space Shuttle missions. The N suffix (FM2n) indicates a revised flash sync system.",
+    "marketPrice": "200–450€",
+    "difficulty": "intermediate",
+    "wikiImage": "nikon-fm2.jpg"
+  },
+  {
+    "id": "pentax-k1000",
+    "name": "Pentax K1000",
+    "brand": "Pentax",
+    "category": "slr",
+    "format": "35mm",
+    "years": "1976–1997",
+    "lens": null,
+    "specs": {
+      "shutter": "1s–1/1000s + B",
+      "metering": "Center-weighted (match-needle)",
+      "focus": "Manual (K mount)",
+      "filmSpeeds": "ISO 20–3200"
+    },
+    "vibe": "Stripped down to essentials. No auto modes, no frills — just a lightmeter and a shutter. The simplicity forces you to understand exposure. Bulletproof build quality explains its 21-year production run.",
+    "bestFor": [
+      "learning",
+      "everyday",
+      "street"
+    ],
+    "culturalNote": "Produced longer than almost any other camera in history. Standard issue in countless photography school programmes. The K mount ecosystem is vast and excellent.",
+    "marketPrice": "60–150€",
+    "difficulty": "intermediate",
+    "wikiImage": "pentax-k1000.jpg"
+  },
+  {
+    "id": "nikon-f3",
+    "name": "Nikon F3",
+    "brand": "Nikon",
+    "category": "slr",
+    "format": "35mm",
+    "years": "1980–2001",
+    "lens": null,
+    "specs": {
+      "shutter": "8s–1/2000s + B",
+      "metering": "Center-weighted + spot",
+      "focus": "Manual (F mount)",
+      "filmSpeeds": "ISO 12–6400"
+    },
+    "vibe": "Nikon's apex professional film SLR. Giorgetto Giugiaro's industrial design gave it a distinctive red accent line. Aperture priority automation plus meticulous mechanical engineering. A camera for life.",
+    "bestFor": [
+      "documentary",
+      "portrait",
+      "news"
+    ],
+    "culturalNote": "Designed by Giugiaro — the same man behind the original VW Golf. Standard professional tool throughout the 1980s. NASA used the F3 in space. Produced for 21 years, testament to its rightness.",
+    "marketPrice": "200–400€",
+    "difficulty": "intermediate",
+    "wikiImage": "nikon-f3.jpg"
+  },
+  {
+    "id": "canon-f1-new",
+    "name": "Canon New F-1",
+    "brand": "Canon",
+    "category": "slr",
+    "format": "35mm",
+    "years": "1981–1992",
+    "lens": null,
+    "specs": {
+      "shutter": "2s–1/2000s + B",
+      "metering": "Center-weighted + spot (with AE Finder)",
+      "focus": "Manual (FD mount)",
+      "filmSpeeds": "ISO 6–6400"
+    },
+    "vibe": "Canon's professional answer to the Nikon F3. Modular system — interchangeable viewfinders and motor drives. The AE Finder adds aperture or shutter priority. Superb FD lenses pair excellently with it.",
+    "bestFor": [
+      "documentary",
+      "sport",
+      "portrait"
+    ],
+    "culturalNote": "Official camera of the 1984 Los Angeles Olympics. Competed directly against the Nikon F3 for professional market share. The FD lens system, now discontinued, represents extraordinary value.",
+    "marketPrice": "200–400€",
+    "difficulty": "intermediate",
+    "wikiImage": "canon-f1-new.jpg"
+  },
+  {
+    "id": "leica-r6",
+    "name": "Leica R6 / R6.2",
+    "brand": "Leica",
+    "category": "slr",
+    "format": "35mm",
+    "years": "1992–2002",
+    "lens": null,
+    "specs": {
+      "shutter": "1s–1/2000s + B",
+      "metering": "Center-weighted + spot",
+      "focus": "Manual (R mount)",
+      "filmSpeeds": "ISO 25–6400"
+    },
+    "vibe": "The only fully mechanical Leica SLR. No electronics — no batteries required for shutter operation. Pairs with the extraordinary R-mount Leica lenses: some of the finest optics ever made for a 35mm SLR.",
+    "bestFor": [
+      "portrait",
+      "travel",
+      "nature"
+    ],
+    "culturalNote": "Overshadowed by M-series rangefinders, the R system produced exceptional images. R lenses can be adapted to many digital systems, driving renewed interest. The R6.2 added 1/2000s top speed.",
+    "marketPrice": "500–1000€",
+    "difficulty": "intermediate",
+    "wikiImage": "leica-r6.jpg"
+  },
+  {
+    "id": "contax-s2",
+    "name": "Contax S2",
+    "brand": "Contax",
+    "category": "slr",
+    "format": "35mm",
+    "years": "1992–2000",
+    "lens": null,
+    "specs": {
+      "shutter": "1s–1/4000s + B",
+      "metering": "Center-weighted + spot",
+      "focus": "Manual (C/Y mount)",
+      "filmSpeeds": "ISO 25–3200"
+    },
+    "vibe": "The mechanical Contax SLR paired with the greatest SLR lens system ever made. Zeiss C/Y lenses — Planar, Distagon, Sonnar — are reference-class optics. The S2 lets you use them at their best.",
+    "bestFor": [
+      "portrait",
+      "documentary",
+      "street"
+    ],
+    "culturalNote": "Contax/Yashica mount Zeiss lenses are widely adapted to Sony mirrorless today. The S2 was the system's last great mechanical camera. The 60th Anniversary edition remains collectible.",
+    "marketPrice": "400–800€",
+    "difficulty": "intermediate",
+    "wikiImage": "contax-s2.jpg"
+  },
+  {
+    "id": "minolta-x700",
+    "name": "Minolta X-700",
+    "brand": "Minolta",
+    "category": "slr",
+    "format": "35mm",
+    "years": "1981–1999",
+    "lens": null,
+    "specs": {
+      "shutter": "4s–1/1000s + B",
+      "metering": "Center-weighted",
+      "focus": "Manual (MD mount)",
+      "filmSpeeds": "ISO 25–1600"
+    },
+    "vibe": "Minolta's finest manual-focus SLR. Program, aperture priority, and manual modes. The MD/MC Rokkor lenses are exceptional and undervalued — corner-cutting at their best. Smooth, pleasant shooting experience.",
+    "bestFor": [
+      "portrait",
+      "travel",
+      "everyday"
+    ],
+    "culturalNote": "EISA Camera of the Year 1981–82. The Rokkor lens range is a collector's goldmine — stellar optical quality at prices that haven't caught up with the Contax/Nikon equivalents yet.",
+    "marketPrice": "80–180€",
+    "difficulty": "beginner",
+    "wikiImage": "minolta-x700.jpg"
+  },
+  {
+    "id": "olympus-om4-ti",
+    "name": "Olympus OM-4 Ti",
+    "brand": "Olympus",
+    "category": "slr",
+    "format": "35mm",
+    "years": "1986–2002",
+    "lens": null,
+    "specs": {
+      "shutter": "240s–1/2000s + B",
+      "metering": "Multi-spot (up to 8 readings)",
+      "focus": "Manual (OM mount)",
+      "filmSpeeds": "ISO 6–3200"
+    },
+    "vibe": "The most sophisticated metering of any film SLR. Multi-spot metering lets you take up to 8 spot readings and average them — a landscape photographer's dream. Titanium body. The OM system's zenith.",
+    "bestFor": [
+      "landscape",
+      "nature",
+      "portrait"
+    ],
+    "culturalNote": "Successor to the OM-4 with titanium cladding. The metering system was so advanced it influenced digital camera metering design. Beloved by nature and landscape photographers for its precision.",
+    "marketPrice": "200–400€",
+    "difficulty": "advanced",
+    "wikiImage": "olympus-om4-ti.jpg"
+  },
+  {
+    "id": "hasselblad-500cm",
+    "name": "Hasselblad 500C/M",
+    "brand": "Hasselblad",
+    "category": "medium-format",
+    "format": "120 (6×6)",
+    "years": "1970–1994",
+    "lens": null,
+    "specs": {
+      "shutter": "1s–1/500s + B (in-lens)",
+      "metering": "None (external meter required)",
+      "focus": "Manual (V mount)",
+      "filmSpeeds": "Any (no meter)"
+    },
+    "vibe": "The modular medium format standard. Interchangeable backs, finders, and lenses. The square format demands a different compositional mindset. Zeiss V-system lenses are reference optics. Every frame costs you — you slow down.",
+    "bestFor": [
+      "portrait",
+      "landscape",
+      "fashion",
+      "studio"
+    ],
+    "culturalNote": "Used to photograph the Moon landings (specially modified). The camera of choice for Irving Penn, Richard Avedon, and every major fashion photographer of the 20th century.",
+    "marketPrice": "1000–2500€",
+    "difficulty": "advanced",
+    "wikiImage": "hasselblad-500cm.jpg"
+  },
+  {
+    "id": "mamiya-7",
+    "name": "Mamiya 7 / 7II",
+    "brand": "Mamiya",
+    "category": "medium-format",
+    "format": "120 (6×7)",
+    "years": "1995–2009",
+    "lens": null,
+    "specs": {
+      "shutter": "4s–1/500s + B (in-lens)",
+      "metering": "TTL center-weighted",
+      "focus": "Rangefinder (manual)",
+      "filmSpeeds": "ISO 6–6400"
+    },
+    "vibe": "The medium format rangefinder that changed everything. 6×7 negatives in a surprisingly portable body. The interchangeable lenses — 43mm to 210mm — are legendary for resolution and rendering. Landscape photographers' holy grail.",
+    "bestFor": [
+      "landscape",
+      "travel",
+      "portrait"
+    ],
+    "culturalNote": "Favoured by Hiroshi Sugimoto and countless landscape photographers. The 7II added multi-exposure capability. The lenses are so sharp they embarrass most digital cameras at equivalent sensor size.",
+    "marketPrice": "1500–3000€",
+    "difficulty": "intermediate",
+    "wikiImage": "mamiya-7.jpg"
+  },
+  {
+    "id": "pentax-67",
+    "name": "Pentax 67 / 67II",
+    "brand": "Pentax",
+    "category": "medium-format",
+    "format": "120 (6×7)",
+    "years": "1969–2009",
+    "lens": null,
+    "specs": {
+      "shutter": "1s–1/1000s + B",
+      "metering": "TTL center-weighted (67II)",
+      "focus": "Manual",
+      "filmSpeeds": "ISO 6–6400"
+    },
+    "vibe": "An SLR for giants. Handles like an oversized 35mm camera. The 6×7 negatives are enormous. The 105mm f/2.4 lens is one of the most beautiful portrait lenses ever made — butter-smooth bokeh, creamy rendering.",
+    "bestFor": [
+      "portrait",
+      "landscape",
+      "fashion"
+    ],
+    "culturalNote": "Nicknamed the 'Bear' for its size and weight. Used by Annie Leibovitz, Nobuyoshi Araki, and countless portrait photographers. The 105mm f/2.4 is the single most sought-after medium format lens.",
+    "marketPrice": "600–1500€",
+    "difficulty": "advanced",
+    "wikiImage": "pentax-67.jpg"
+  },
+  {
+    "id": "rolleiflex-28f",
+    "name": "Rolleiflex 2.8F",
+    "brand": "Rollei",
+    "category": "medium-format",
+    "format": "120 (6×6)",
+    "years": "1960–1981",
+    "lens": {
+      "focal": 80,
+      "aperture": 2.8,
+      "maker": "Zeiss",
+      "model": "Planar or Xenotar"
+    },
+    "specs": {
+      "shutter": "1s–1/500s + B",
+      "metering": "Selenium cell (some versions)",
+      "focus": "TLR (waist-level, manual)",
+      "filmSpeeds": "ISO 25–3200"
+    },
+    "vibe": "The twin-lens reflex at its finest. Waist-level shooting creates a different relationship with subjects — people don't feel photographed, they feel observed. The 80mm Zeiss Planar renders portraits with unmatched grace.",
+    "bestFor": [
+      "portrait",
+      "street",
+      "fashion"
+    ],
+    "culturalNote": "Vivian Maier shot most of her work with a Rolleiflex. Richard Avedon, Diane Arbus, Helmut Newton — TLR shooting from the waist defined mid-century portraiture. The leather case is an accessory icon.",
+    "marketPrice": "800–2000€",
+    "difficulty": "advanced",
+    "wikiImage": "rolleiflex-28f.jpg"
+  },
+  {
+    "id": "contax-645",
+    "name": "Contax 645",
+    "brand": "Contax",
+    "category": "medium-format",
+    "format": "120 (6×4.5)",
+    "years": "1999–2005",
+    "lens": null,
+    "specs": {
+      "shutter": "30s–1/4000s",
+      "metering": "Multi-zone + center-weighted + spot",
+      "focus": "Autofocus",
+      "filmSpeeds": "ISO 25–6400"
+    },
+    "vibe": "Autofocus medium format with Zeiss lenses. The 80mm f/2 Planar T* is probably the finest portrait lens for film. Modern ergonomics, sophisticated metering, and Carl Zeiss optics — medium format without compromise.",
+    "bestFor": [
+      "portrait",
+      "wedding",
+      "fashion"
+    ],
+    "culturalNote": "The last major film medium format system released. Robb Stark's wedding photographer. Widely used in wedding photography through the 2000s. Zeiss lenses can be adapted to Hasselblad H digital backs.",
+    "marketPrice": "1500–2500€",
+    "difficulty": "intermediate",
+    "wikiImage": "contax-645.jpg"
+  },
+  {
+    "id": "mamiya-rz67",
+    "name": "Mamiya RZ67 Pro II",
+    "brand": "Mamiya",
+    "category": "medium-format",
+    "format": "120 (6×7)",
+    "years": "1995–2008",
+    "lens": null,
+    "specs": {
+      "shutter": "8s–1/400s + B",
+      "metering": "TTL (with prism finder)",
+      "focus": "Manual (bellows focus)",
+      "filmSpeeds": "ISO 6–6400"
+    },
+    "vibe": "The studio monster. Heavy, deliberate, uncompromising. Bellows focusing system allows macro work without accessories. Interchangeable backs for different film formats. The 110mm f/2.8 is staggeringly good.",
+    "bestFor": [
+      "studio",
+      "portrait",
+      "product"
+    ],
+    "culturalNote": "The dominant studio medium format camera of the 1990s–2000s. Used by virtually every commercial photographer before digital took over. Now available for a fraction of its original cost.",
+    "marketPrice": "400–900€",
+    "difficulty": "advanced",
+    "wikiImage": "mamiya-rz67.jpg"
+  },
+  {
+    "id": "fuji-gw690",
+    "name": "Fuji GW690 III",
+    "brand": "Fujifilm",
+    "category": "medium-format",
+    "format": "120 (6×9)",
+    "years": "1992–2000",
+    "lens": {
+      "focal": 90,
+      "aperture": 3.5,
+      "maker": "Fujinon",
+      "model": "EBC"
+    },
+    "specs": {
+      "shutter": "1s–1/500s + B",
+      "metering": "None",
+      "focus": "Rangefinder (manual)",
+      "filmSpeeds": "Any (no meter)"
+    },
+    "vibe": "The Texas Leica. Massive 6×9 negatives on 120 film — only 8 frames per roll. The scale of the images is extraordinary. Simple, direct, mechanical. The Fujinon 90mm is crisp and contrasty.",
+    "bestFor": [
+      "landscape",
+      "architecture",
+      "portrait"
+    ],
+    "culturalNote": "Nicknamed 'Texas Leica' for its enormous size relative to Leica rangefinders. Eight 6×9 frames per roll forces extreme selectivity. A cult object among photographers who want maximum film coverage.",
+    "marketPrice": "400–700€",
+    "difficulty": "advanced",
+    "wikiImage": "fuji-gw690.jpg"
+  },
+  {
+    "id": "bronica-sq-ai",
+    "name": "Bronica SQ-Ai",
+    "brand": "Bronica",
+    "category": "medium-format",
+    "format": "120 (6×6)",
+    "years": "1990–2004",
+    "lens": null,
+    "specs": {
+      "shutter": "8s–1/500s + B",
+      "metering": "TTL (with metered finder)",
+      "focus": "Manual (SQ mount)",
+      "filmSpeeds": "ISO 6–6400"
+    },
+    "vibe": "The accessible Hasselblad alternative. Modular system — interchangeable backs and finders like the 500C/M. Zenzanon lenses are sharp and characterful at significantly lower cost than Zeiss equivalents.",
+    "bestFor": [
+      "portrait",
+      "landscape",
+      "studio"
+    ],
+    "culturalNote": "Bronica produced cameras for photographers who wanted Hasselblad capability without the price. The SQ system is now available at remarkable prices — one of the best value entries into medium format.",
+    "marketPrice": "300–700€",
+    "difficulty": "advanced",
+    "wikiImage": "bronica-sq-ai.jpg"
+  },
+  {
+    "id": "plaubel-makina-67",
+    "name": "Plaubel Makina 67",
+    "brand": "Plaubel",
+    "category": "medium-format",
+    "format": "120 (6×7)",
+    "years": "1978–1995",
+    "lens": {
+      "focal": 80,
+      "aperture": 2.8,
+      "maker": "Nikon",
+      "model": "Nikkor"
+    },
+    "specs": {
+      "shutter": "8s–1/500s + B",
+      "metering": "TTL center-weighted",
+      "focus": "Rangefinder (manual)",
+      "filmSpeeds": "ISO 6–3200"
+    },
+    "vibe": "The foldable medium format rangefinder. Collapses to an astonishingly compact form. The Nikkor 80mm f/2.8 is superb. 10 frames of 6×7 on 120 film in a package you can slip into a bag.",
+    "bestFor": [
+      "travel",
+      "portrait",
+      "street"
+    ],
+    "culturalNote": "Daido Moriyama's preferred medium format camera for his raw, gritty urban work — an unusual choice given the camera's relatively refined character. Rare and increasingly collectible.",
+    "marketPrice": "1000–2000€",
+    "difficulty": "advanced",
+    "wikiImage": "plaubel-makina-67.jpg"
+  },
+  {
+    "id": "yashica-mat-124g",
+    "name": "Yashica Mat-124G",
+    "brand": "Yashica",
+    "category": "medium-format",
+    "format": "120 (6×6)",
+    "years": "1970–1986",
+    "lens": {
+      "focal": 80,
+      "aperture": 3.5,
+      "maker": "Yashinon"
+    },
+    "specs": {
+      "shutter": "1s–1/500s + B",
+      "metering": "Selenium cell (battery-free)",
+      "focus": "TLR (waist-level, manual)",
+      "filmSpeeds": "ISO 25–400"
+    },
+    "vibe": "The affordable TLR with real quality. Yashinon lens punches above its price point. Battery-free selenium metering. The gateway drug to medium format for many photographers — delivers results far beyond its modest cost.",
+    "bestFor": [
+      "portrait",
+      "street",
+      "landscape"
+    ],
+    "culturalNote": "The most accessible quality TLR ever made. Accepts both 120 and 220 film. The 'G' designation indicates gold-plated electrical contacts — an oddly luxurious detail on an entry-level medium format camera.",
+    "marketPrice": "150–300€",
+    "difficulty": "intermediate",
+    "wikiImage": "yashica-mat-124g.jpg"
+  },
+  {
+    "id": "hasselblad-xpan",
+    "name": "Hasselblad XPan / Fujifilm TX-1",
+    "brand": "Hasselblad",
+    "category": "medium-format",
+    "format": "35mm (panoramic 24×65)",
+    "years": "1998–2006",
+    "lens": null,
+    "specs": {
+      "shutter": "8s–1/1000s + B",
+      "metering": "TTL center-weighted + spot",
+      "focus": "Rangefinder (manual)",
+      "filmSpeeds": "ISO 25–3200"
+    },
+    "vibe": "The panoramic film camera. Switches between standard 24×36mm and panoramic 24×65mm frames on the same roll. The 45mm f/4 Hasselblad lens produces images unlike anything else — a 2.7:1 aspect ratio that transforms composition.",
+    "bestFor": [
+      "landscape",
+      "architecture",
+      "street"
+    ],
+    "culturalNote": "Co-developed by Hasselblad and Fujifilm — sold as XPan in Europe and TX-1 in Japan. Wim Wenders and other filmmakers use it for its cinematic proportions. Prices have exploded in recent years.",
+    "marketPrice": "2500–5000€",
+    "difficulty": "intermediate",
+    "wikiImage": "hasselblad-xpan.jpg"
+  },
+  {
+    "id": "nikon-f6",
+    "name": "Nikon F6",
+    "brand": "Nikon",
+    "category": "slr",
+    "format": "35mm",
+    "years": "2004–2020",
+    "lens": null,
+    "specs": {
+      "shutter": "30s–1/8000s",
+      "metering": "3D Color Matrix II + center-weighted + spot",
+      "focus": "Autofocus (11-point)",
+      "filmSpeeds": "ISO 6–6400"
+    },
+    "vibe": "The last great professional film SLR. Every technological advantage distilled into film shooting — 3D matrix metering, multi-point AF, sophisticated flash control. Uses the entire Nikkor F-mount lens catalogue.",
+    "bestFor": [
+      "documentary",
+      "portrait",
+      "sport"
+    ],
+    "culturalNote": "Nikon's final film professional body, discontinued in 2020. Production ended not because it was obsolete but because demand had faded. Future classic — a professional tool at the end of an era.",
+    "marketPrice": "1000–2000€",
+    "difficulty": "beginner",
+    "wikiImage": "nikon-f6.jpg"
+  },
+  {
+    "id": "canon-eos-1v",
+    "name": "Canon EOS-1V",
+    "brand": "Canon",
+    "category": "slr",
+    "format": "35mm",
+    "years": "2000–2018",
+    "lens": null,
+    "specs": {
+      "shutter": "30s–1/8000s",
+      "metering": "21-zone evaluative + partial + spot",
+      "focus": "Autofocus (45-point)",
+      "filmSpeeds": "ISO 6–6400"
+    },
+    "vibe": "Canon's final word in professional film SLR. 45-point AF, 10fps with power drive, weather sealing. Takes any EF lens ever made. The sophistication of a digital camera body applied to film.",
+    "bestFor": [
+      "sport",
+      "documentary",
+      "wildlife"
+    ],
+    "culturalNote": "Used by photojournalists through the 2000s and into the digital transition. EF lenses work natively on Canon mirrorless with adapter — this body provides access to the entire EF catalogue on film.",
+    "marketPrice": "500–1000€",
+    "difficulty": "beginner",
+    "wikiImage": "canon-eos-1v.jpg"
+  },
+  {
+    "id": "contax-g2",
+    "name": "Contax G2",
+    "brand": "Contax",
+    "category": "rangefinder",
+    "format": "35mm",
+    "years": "1996–2005",
+    "lens": null,
+    "specs": {
+      "shutter": "16s–1/6000s",
+      "metering": "TTL multi-zone + spot",
+      "focus": "Autofocus (active infrared)",
+      "filmSpeeds": "ISO 25–5000"
+    },
+    "vibe": "The autofocus rangefinder with Zeiss lenses. 1/6000s top speed. The G-series Zeiss lenses — Biogon, Planar, Sonnar — are among the finest 35mm lenses ever designed. Fast, quiet, sophisticated.",
+    "bestFor": [
+      "street",
+      "travel",
+      "portrait"
+    ],
+    "culturalNote": "A technological tour-de-force that divided rangefinder purists. The AF system can hunt in low contrast situations, but when it works the combination of speed and optical quality is unrivalled.",
+    "marketPrice": "600–1200€",
+    "difficulty": "beginner",
+    "wikiImage": "contax-g2.jpg"
+  },
+  {
+    "id": "fujifilm-ga645",
+    "name": "Fujifilm GA645",
+    "brand": "Fujifilm",
+    "category": "medium-format",
+    "format": "120 (6×4.5)",
+    "years": "1995–2002",
+    "lens": {
+      "focal": 60,
+      "aperture": 4,
+      "maker": "Fujinon",
+      "model": "EBC Super-EBC"
+    },
+    "specs": {
+      "shutter": "4s–1/700s",
+      "metering": "TTL multi-zone",
+      "focus": "Autofocus",
+      "filmSpeeds": "ISO 25–3200"
+    },
+    "vibe": "Medium format that fits in a large pocket. Autofocus 6×4.5 — a combination that barely existed before this camera. 16 frames per 120 roll. The Fujinon lens is excellent. Shoots medium format like a compact.",
+    "bestFor": [
+      "travel",
+      "street",
+      "landscape"
+    ],
+    "culturalNote": "One of the very few autofocus medium format cameras. The vertical orientation of the 6×4.5 frame suits portrait shooting naturally. An oddity that has found a devoted following.",
+    "marketPrice": "300–600€",
+    "difficulty": "beginner",
+    "wikiImage": "fujifilm-ga645.jpg"
+  },
+  {
+    "id": "lomo-lca",
+    "name": "Lomo LC-A+",
+    "brand": "Lomography",
+    "category": "toy",
+    "format": "35mm",
+    "years": "1984–present",
+    "lens": {
+      "focal": 32,
+      "aperture": 2.8,
+      "maker": "Minitar"
+    },
+    "specs": {
+      "shutter": "1/500s (auto exposure, down to several seconds)",
+      "metering": "Automatic",
+      "focus": "Zone focus (0.8m / 1.5m / 3m / ∞)",
+      "filmSpeeds": "ISO 25–400"
+    },
+    "vibe": "The camera that started a movement. Heavy vignetting, saturated colours, zone focus — lo-fi as aesthetic. No control, no precision. Point, shoot, accept what comes back. Liberating for some, frustrating for others.",
+    "bestFor": [
+      "party",
+      "travel",
+      "experimental"
+    ],
+    "culturalNote": "Originally designed for Soviet security forces (LOMO = Leningrad Optical Mechanical Association). Rediscovered by Viennese students in 1991, spawning the Lomography movement and 'Ten Golden Rules' of lomography.",
+    "marketPrice": "60–120€",
+    "difficulty": "beginner",
+    "wikiImage": "lomo-lca.jpg"
+  },
+  {
+    "id": "holga-120n",
+    "name": "Holga 120N",
+    "brand": "Holga",
+    "category": "toy",
+    "format": "120 (6×6 or 6×4.5)",
+    "years": "1982–2015",
+    "lens": {
+      "focal": 60,
+      "aperture": 8,
+      "maker": "Holga"
+    },
+    "specs": {
+      "shutter": "1/100s + B",
+      "metering": "None",
+      "focus": "Zone focus (1m / 2m / 4m / ∞)",
+      "filmSpeeds": "ISO 100–400 recommended"
+    },
+    "vibe": "Toy camera on 120 film. Light leaks, vignetting, and soft focus are features not bugs. The plastic meniscus lens creates dreamlike, soft images. Each roll is unpredictable. Medium format imprecision.",
+    "bestFor": [
+      "experimental",
+      "portrait",
+      "landscape"
+    ],
+    "culturalNote": "Designed as an affordable camera for Chinese workers, adopted by Western art photographers. David Burnett shot the 2004 Olympics with a Holga. Manufactured until 2015 when the company closed.",
+    "marketPrice": "30–80€",
+    "difficulty": "beginner",
+    "wikiImage": "holga-120n.jpg"
+  },
+  {
+    "id": "konica-big-mini",
+    "name": "Konica Big Mini",
+    "brand": "Konica",
+    "category": "compact",
+    "format": "35mm",
+    "years": "1989–2001",
+    "lens": {
+      "focal": 35,
+      "aperture": 3.5,
+      "maker": "Konica",
+      "model": "Hexanon"
+    },
+    "specs": {
+      "shutter": "Automatic",
+      "metering": "Multi-zone",
+      "focus": "Autofocus",
+      "filmSpeeds": "ISO 50–3200"
+    },
+    "vibe": "Pocket-sized with Hexanon quality. One of the sharpest lenses in the compact category at f/3.5. Genuinely pocketable. Simple operation makes it a carry-everywhere camera that doesn't make you think.",
+    "bestFor": [
+      "everyday",
+      "travel",
+      "street"
+    ],
+    "culturalNote": "Multiple versions spanning a decade. The BM-302 and BM-S are considered the best. Undervalued compared to the Hexar AF despite sharing Konica's excellent Hexanon optical lineage.",
+    "marketPrice": "60–150€",
+    "difficulty": "beginner",
+    "wikiImage": "konica-big-mini.jpg"
+  },
+  {
+    "id": "nikon-l35af",
+    "name": "Nikon L35AF",
+    "brand": "Nikon",
+    "category": "compact",
+    "format": "35mm",
+    "years": "1983–1986",
+    "lens": {
+      "focal": 35,
+      "aperture": 2.8,
+      "maker": "Nikon",
+      "model": "NIKKOR"
+    },
+    "specs": {
+      "shutter": "Automatic (1/8s–1/1000s)",
+      "metering": "Multi-zone",
+      "focus": "Autofocus (active infrared)",
+      "filmSpeeds": "ISO 25–1000"
+    },
+    "vibe": "The original Nikon compact, and still excellent. The 35mm f/2.8 Nikkor is sharper than most cameras in its class. Infrared AF works well in dim conditions. Classic 1980s styling that looks better with age.",
+    "bestFor": [
+      "everyday",
+      "travel",
+      "street"
+    ],
+    "culturalNote": "Also known as the 'Pikaichi' in Japan — meaning 'number one'. Set the standard for autofocus compacts when launched. The L35AD (with date imprint) is sought after for its 1980s timestamp aesthetic.",
+    "marketPrice": "80–200€",
+    "difficulty": "beginner",
+    "wikiImage": "nikon-l35af.jpg"
+  },
+  {
+    "id": "pentax-17",
+    "name": "Pentax 17",
+    "brand": "Pentax",
+    "category": "compact",
+    "format": "35mm (half-frame)",
+    "years": "2024–present",
+    "lens": {
+      "focal": 25,
+      "aperture": 3.5,
+      "maker": "Pentax"
+    },
+    "specs": {
+      "shutter": "1s–1/2000s",
+      "metering": "Automatic + manual",
+      "focus": "Manual (zone)",
+      "filmSpeeds": "ISO 25–3200"
+    },
+    "vibe": "The first new film camera from a major manufacturer in decades. Half-frame means 72 exposures per 36-exposure roll — ideal for those who want to shoot more for less. Retro aesthetics with modern reliability.",
+    "bestFor": [
+      "everyday",
+      "travel",
+      "experimental"
+    ],
+    "culturalNote": "Released in 2024, defying predictions that film camera manufacturing was dead. Massive demand surprised even Pentax. Signals a genuine commercial revival of film photography, not just a nostalgic niche.",
+    "marketPrice": "300–400€",
+    "difficulty": "beginner",
+    "wikiImage": "pentax-17.jpg"
+  }
+]

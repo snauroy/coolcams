@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm *)",
+      "Bash(node *)",
+      "Bash(git *)",
+      "Bash(ls *)",
+      "Bash(find *)",
+      "Bash(curl *)",
+      "Bash(mkdir *)",
+      "Bash(cp *)",
+      "Bash(cat *)",
+      "Bash(echo *)",
+      "Bash(pkill -f \"next dev\")"
+    ],
+    "deny": [
+      "Bash(rm -rf ~*)",
+      "Bash(rm -rf /*)",
+      "Bash(rm -rf /Users*)"
+    ]
+  }
+}
